@@ -54,7 +54,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ORIGIN_WHITELIST = (
-    'https://localhost:8000',
+    'https://localhost:3000',
 )
 
 
